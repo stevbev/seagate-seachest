@@ -1,2 +1,2 @@
 # seagate-seachest
-Pre-compiled Seagate SeaChest binaries for non-x86
+Pre-compiled Seagate openSeaChest binaries for non-x86
